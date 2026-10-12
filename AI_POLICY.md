@@ -15,6 +15,7 @@ Saya tidak akan memasukkan kata sandi, token akses, kunci API, data pembayaran, 
 - Memeriksa tautan, kutipan, fakta, dan angka; saya tidak akan menganggapnya benar hanya karena diberikan AI.
 - Mengubah hasil agar sesuai dengan pemahaman dan kebutuhan tugas saya.
 - Mengakui penggunaan AI jika diwajibkan oleh dosen atau aturan tugas.
+- Memasukan hasil jawaban saya dan AI membantu saya dalam memperbaiki kalimat yang berantakan
 
 # 5. Tanggung jawab
 Saya tetap bertanggung jawab atas semua materi yang saya kumpulkan, termasuk materi yang dibantu AI.
